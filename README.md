@@ -2,7 +2,7 @@
 
 Neste projeto temos uma ''homepage'' com um botão com link para whatsapp.
 
-![Preview](./.github/guiburati.github.io_NLW_.png)
+![Pagina inicial](https://user-images.githubusercontent.com/110997599/194711437-7b21c94c-f98a-46ee-8fee-0038af57ce39.png)
 
 
 ## Tecnologias
